@@ -21,3 +21,5 @@ When all images are traced and analyses performed, close all open SNT tables.
 You can then run again and navigate to a new folder for analysis.
 
 A folder of 20 images should take ~5 minutes to perform the tracings.
+
+![NeuriteTracerOverlayComparison](https://user-images.githubusercontent.com/39717070/176835617-ede1b7e2-8531-47ab-947b-e528e3643451.png)
